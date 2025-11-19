@@ -1,12 +1,3 @@
-"""Basic demo script for the testapp workspace.
-
-Features:
-- simple CLI prompts
-- small numeric utility function
-
-Run:
-	python main.py
-"""
 from typing import Union
 
 
